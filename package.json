@@ -1,0 +1,20 @@
+{
+  "name": "find-phrase-in-array",
+  "version": "1.0.0",
+  "description": "Tablica z 15 wyrazami.\r Funkcja jako pierwszy argument przyjmuje tablicę wyrazów, a jako drugą wartość frazę, którą chcemy znaleźć w tej tablicy.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsylwia/find-phrase-in-array.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsylwia/find-phrase-in-array/issues"
+  },
+  "homepage": "https://github.com/gsylwia/find-phrase-in-array#readme"
+}
